@@ -11,15 +11,15 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Shaurya',
   imageBackground: false,
   openInNewTab: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'You finally awake? ',
+  greetingAfternoon: 'Feeling lazy? ',
+  greetingEvening: 'Almost done, ',
+  greetingNight: 'Get some Shut-eye!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -111,8 +111,8 @@ const CONFIG = {
         link: 'https://figma.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Moodle',
+        link: 'https://moodle.iimamritsar.ac.in/my/',
       },
       {
         name: 'Telegram',
