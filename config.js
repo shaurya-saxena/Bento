@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Slides',
+      icon: 'airplay',
+      link: 'https://docs.google.com/presentation/u/0/',
     },
     {
       id: '4',
@@ -62,13 +62,13 @@ const CONFIG = {
     {
       id: '5',
       name: 'Slides',
-      icon: 'monitor',
+      icon: 'headphones',
       link: 'https://docs.google.com/presentation/u/0/',
     },
     {
       id: '6',
       name: 'Sheets',
-      icon: 'layout',
+      icon: 'bar-chart-2',
       link: 'https://docs.google.com/spreadsheets/u/0/',
     },
   ],
@@ -86,6 +86,18 @@ const CONFIG = {
     firstList: [
       {
         name: 'Inspirational',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Classic',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Oldies',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Rock',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
