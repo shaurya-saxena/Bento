@@ -22,11 +22,11 @@ const CONFIG = {
   greetingNight: 'Get some Shut-eye!',
 
   // Weather
-  weatherKey: '19797303a2a2c1b5863bdf2bfecac2e3',
+  weatherKey: 'f93896a134c9c17498862c57f2d4e8da',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '77.2900274',
-  weatherLongitude: '28.5298903',
+  weatherLatitude: '28.52',
+  weatherLongitude: '77.28',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -37,39 +37,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'To Do List',
+      icon: 'trello',
+      link: 'https://trello.com/b/zz9snbUR/the-mba-planner',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '4',
       name: 'Calendar',
       icon: 'calendar',
       link: 'https://calendar.google.com/calendar/r',
     },
     {
+      id: '4',
+      name: 'Docs',
+      icon: 'docs',
+      link: 'https://docs.google.com/document/u/0/',
+    },
+    {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Slides',
+      icon: 'slides',
+      link: 'https://docs.google.com/presentation/u/0/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Sheets',
+      icon: 'sheets',
+      link: 'https://docs.google.com/spreadsheets/u/0/',
     },
   ],
 
