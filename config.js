@@ -22,11 +22,11 @@ const CONFIG = {
   greetingNight: 'Get some Shut-eye!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '19797303a2a2c1b5863bdf2bfecac2e3',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '77.2900274',
+  weatherLongitude: '28.5298903',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
