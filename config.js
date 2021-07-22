@@ -56,19 +56,19 @@ const CONFIG = {
     {
       id: '4',
       name: 'Docs',
-      icon: 'docs',
+      icon: 'file-text',
       link: 'https://docs.google.com/document/u/0/',
     },
     {
       id: '5',
       name: 'Slides',
-      icon: 'slides',
+      icon: 'monitor',
       link: 'https://docs.google.com/presentation/u/0/',
     },
     {
       id: '6',
       name: 'Sheets',
-      icon: 'sheets',
+      icon: 'layout',
       link: 'https://docs.google.com/spreadsheets/u/0/',
     },
   ],
