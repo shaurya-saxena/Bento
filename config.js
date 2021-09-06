@@ -37,9 +37,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'To Do List',
-      icon: 'trello',
-      link: 'https://trello.com/b/zz9snbUR/the-mba-planner',
+      name: 'Calendar',
+      icon: 'calendar',
+      link: 'https://calendar.google.com/calendar/u/1/r',
     },
     {
       id: '2',
@@ -61,9 +61,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Slides',
+      name: 'Spotify',
       icon: 'headphones',
-      link: 'https://docs.google.com/presentation/u/0/',
+      link: 'https://open.spotify.com/playlist/5oxZIYU1L9N1CczN0C4JkM?si=Y3NjPV-JQ3eONUnZFUf_LQ&nd=1',
     },
     {
       id: '6',
@@ -78,39 +78,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'briefcase',
+  secondListIcon: 'social',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Books',
+        link: 'https://read.amazon.in/kindle-library?ref_=kcr_library',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Moodle',
+        link:  'https://moodle.iimamritsar.ac.in/my/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Figma',
+        link: 'https://figma.com/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Google Meet',
+        link: 'https://meet.google.com/,
       },
     ],
     secondList: [
@@ -119,17 +107,17 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Moodle',
-        link: 'https://moodle.iimamritsar.ac.in/my/',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com/',
       },
       {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
       },
+      {
+        name: 'Mail',
+        link: 'https://gmail.com/',
+      },      
     ],
   },
 };
